@@ -14,9 +14,9 @@ public class Program
             iat = 1688784499L,
 
             addOn = new SourceJwtAddOnModel(
-            name: "500 widgets/year",
-            amount: 24m
-            ),
+                name: "500 widgets/year",
+                amount: 24m
+                ),
         };
 
         EncodeAndDecodeJWT(sourceJwtModel1);
