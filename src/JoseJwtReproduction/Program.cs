@@ -28,7 +28,7 @@ public class Program
 
             addOn = new SourceJwtAddOnModel(
                 name: "500 widgets/year",
-                amount: 24.01m // <-- Two decimal places
+                amount: 24.00m // <-- Two decimal places
                 ),
         };
 
